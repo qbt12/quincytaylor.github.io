@@ -1,0 +1,18 @@
+li{font-size: 1em;
+text-align:center;}
+body{
+	background-image: url(idk.jpg);
+	background-position: center center;
+	background-attachment: fixed;
+	background-size:cover;
+	margin:0;
+}
+
+nav{text-align: top-right;
+font-family: 'Lora', serif;
+ text-decoration-color:lightblue;
+}
+
+p{font-size: 2em;
+text-decoration-color:green;
+}
